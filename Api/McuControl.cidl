@@ -1,0 +1,6 @@
+
+
+[Guid("452b9fce-5f9b-4a40-a4e3-cac1435af2df")]
+interface IMcuControl : IUnknown {
+	void readMemory();
+}
